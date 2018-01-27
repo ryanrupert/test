@@ -1,0 +1,3 @@
+[submodule "StraddlingCheckerboards"]
+	path = StraddlingCheckerboards
+	url = https://github.com/ryanrupert/StraddlingCheckerboards.git
